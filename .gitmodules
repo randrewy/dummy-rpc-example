@@ -1,0 +1,9 @@
+[submodule "Rpc"]
+	path = Rpc
+	url = https://github.com/randrewy/Rpc.git
+[submodule "Archive"]
+	path = Archive
+	url = https://github.com/randrewy/Archive.git
+[submodule "czspas"]
+	path = czspas
+	url = https://github.com/ruifig/czspas.git
